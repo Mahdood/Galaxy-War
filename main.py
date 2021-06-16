@@ -17,7 +17,7 @@ mixer.music.load("background.mp3")
 mixer.music.play(-1)
 
 # Caption and Icon
-pygame.display.set_caption("Space Invader !!!")
+pygame.display.set_caption("Galaxy War !!!")
 icon = pygame.image.load('ufo.png')
 pygame.display.set_icon(icon)
 
